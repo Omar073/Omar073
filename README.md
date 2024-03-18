@@ -9,7 +9,7 @@ I am a junior computer engineering student with proficiency in various domains, 
 * 🌍  I'm based in Cairo, Egypt
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/omarahmed77/)
 * ✉️  You can contact me at [omarahmed7703@gmail.com](mailto:omarahmed7703@gmail.com)
-* 🚀  I'm currently working on [Flutter E-commerce app](http://github.com/Omar073/Flutter_e-commerce)
+* 🚀  I'm currently working on [Flutter E-commerce app (Bazar)](https://github.com/Omar073/Bazar)
 * 🧠  I'm learning Flutter
 
 ### Skills
