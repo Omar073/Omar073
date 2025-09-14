@@ -9,7 +9,7 @@ I am a senior Computer Engineering student and a former Software Engineering Int
 * ✉️  You can contact me at [omarahmed7703@gmail.com](mailto:omarahmed7703@gmail.com)
 * 🚀  I'm currently working on [vera clinic app](http://github.com/Omar073/vera_clinic)
 * 🧠  I'm learning Flutter
-* ⚡  Ex-Software Engineering intern @Google, you can find my playlist about the google internship experience on my Youtube channel
+* ⚡  2x Software Engineering intern @Google, you can find my playlist about the google internship experience on my Youtube channel
 
 ### Skills
 
